@@ -21,7 +21,8 @@ bin/
 /dist/
 /nbdist/
 /.nb-gradle/
-
+/lab2-branching-and-merging.iml
+/.idea
 ### VS Code ###
 .vscode/
 
